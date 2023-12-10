@@ -339,8 +339,6 @@ button {
 }
 
 
-
-
 /* header section end */
 
 /* banner section start */
@@ -348,7 +346,7 @@ button {
 .banner_section {
   width: 100%;
   float: left;
-  padding-bottom: 305px;
+  padding-bottom: 405px;
 }
 
 .banner_taital {
@@ -356,7 +354,7 @@ button {
   float: left;
   font-size: 80px;
   color: #ffffff;
-  font-weight: bold;
+  font-weight: lighter;
   text-align: center;
   text-transform: uppercase;
   font-family: "Righteous", Regular;
@@ -393,6 +391,8 @@ button {
   background-color: #2b2278;
   color: #ffffff;
 }
+
+
 
 /* banner section end */
 
